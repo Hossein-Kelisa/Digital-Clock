@@ -1,9 +1,10 @@
 body {
-    font-family: 'Arial';
-    background: linear-gradient(120deg, #3a6186, #89253e);
-    color: #f3f3f3;
+    font-family: 'Arial', sans-serif;
+    background: url('/image/1.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
     display: flex;
-    justify-content:center;
+    justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
