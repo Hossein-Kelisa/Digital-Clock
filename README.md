@@ -16,4 +16,4 @@ Click [TIME](https://hossein-kelisa.github.io/Digital-Clock/) to see the digital
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Hossein-Kelisa/Digital-Clock/.git
+   git clone https://github.com/Hossein-Kelisa/Digital-Clock.git
